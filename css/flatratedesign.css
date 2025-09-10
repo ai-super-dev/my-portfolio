@@ -1874,7 +1874,7 @@ blockquote {
   color: #fff;
   background-color: #000;
   align-items: flex-end;
-  min-height: 100dvh;
+  margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
