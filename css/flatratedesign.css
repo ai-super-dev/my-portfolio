@@ -4046,7 +4046,6 @@ blockquote {
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr;
   grid-auto-columns: 1fr;
-  height: 100%;
   padding-left: 2rem;
   padding-right: 2rem;
   display: flex;
